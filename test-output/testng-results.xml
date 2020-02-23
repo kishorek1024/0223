@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16" started-at="2020-02-21T05:41:59Z" finished-at="2020-02-21T05:41:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16" started-at="2020-02-21T05:41:59Z" finished-at="2020-02-21T05:41:59Z">
+      <class name="testngg.NewTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:testngg.NewTest@3c756e4d]" name="beforeSuite" is-config="true" duration-ms="0" started-at="2020-02-21T11:11:59Z" finished-at="2020-02-21T11:11:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="f()[pri:1, instance:testngg.NewTest@3c756e4d]" name="f" duration-ms="16" started-at="2020-02-21T11:11:59Z" finished-at="2020-02-21T11:11:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testngg.NewTest@3c756e4d]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-02-21T11:11:59Z" finished-at="2020-02-21T11:11:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testngg.NewTest@3c756e4d]" name="beforeTest" is-config="true" duration-ms="0" started-at="2020-02-21T11:11:59Z" finished-at="2020-02-21T11:11:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testngg.NewTest@3c756e4d]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-02-21T11:11:59Z" finished-at="2020-02-21T11:11:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testngg.NewTest@3c756e4d]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-02-21T11:11:59Z" finished-at="2020-02-21T11:11:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="a()[pri:2, instance:testngg.NewTest@3c756e4d]" name="a" duration-ms="0" started-at="2020-02-21T11:11:59Z" finished-at="2020-02-21T11:11:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testngg.NewTest@3c756e4d]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-02-21T11:11:59Z" finished-at="2020-02-21T11:11:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testngg.NewTest@3c756e4d]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-02-21T11:11:59Z" finished-at="2020-02-21T11:11:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testngg.NewTest@3c756e4d]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-02-21T11:11:59Z" finished-at="2020-02-21T11:11:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="x()[pri:3, instance:testngg.NewTest@3c756e4d]" name="x" duration-ms="0" started-at="2020-02-21T11:11:59Z" finished-at="2020-02-21T11:11:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- x -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testngg.NewTest@3c756e4d]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-02-21T11:11:59Z" finished-at="2020-02-21T11:11:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testngg.NewTest@3c756e4d]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-02-21T11:11:59Z" finished-at="2020-02-21T11:11:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testngg.NewTest@3c756e4d]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-02-21T11:11:59Z" finished-at="2020-02-21T11:11:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:testngg.NewTest@3c756e4d]" name="afterSuite" is-config="true" duration-ms="0" started-at="2020-02-21T11:11:59Z" finished-at="2020-02-21T11:11:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testngg.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
