@@ -17,8 +17,7 @@ public class BO {
 		driver.findElement(By.id("pass")).sendKeys("abcdefgh");
 		driver.findElement(By.id("day")).sendKeys("24");
 		driver.findElement(By.id("month")).sendKeys("Apr");
-		driver.findElement(By.id("u_0_a")).click();
-		driver.findElement(By.id("email")).clear();
+		System.out.println(driver.getTitle());
 
 	}
 
